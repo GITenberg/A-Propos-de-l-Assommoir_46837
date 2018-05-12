@@ -1,10 +1,16 @@
 _repo: A-Propos-de-l-Assommoir_46837
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46837-h/images/cover.jpg
 creator:
   author:
     agent_name: Rod, Édouard
     gutenberg_agent_id: '43979'
     url: http://www.gutenberg.org/2009/agents/43979
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46837#A-Propos-de-l-Assommoir
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-09-10'
 gutenberg_type: Text
